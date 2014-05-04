@@ -25,6 +25,7 @@
         <module name="Amazon" />
         <module name="cnn" />
         <module name="Generic" />
+        <module name="PeoplenTech" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +33,7 @@
       <module name="cnn" target="1.7" />
       <module name="FrameworkTeam4" target="1.7" />
       <module name="Generic" target="1.7" />
+      <module name="PeoplenTech" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

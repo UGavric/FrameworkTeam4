@@ -8,6 +8,8 @@
     <artifactId>FrameworkTeam4</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>FrameworkTeam4</name>
+
         <build>
             <plugins>
                 <plugin>
@@ -28,10 +30,12 @@
                 </plugin>
             </plugins>
         </build>
+
     <modules>
         <module>Generic</module>
         <module>cnn</module>
         <module>Amazon</module>
+        <module>PeoplenTech</module>
     </modules>
 
     <dependencyManagement>
@@ -61,7 +65,6 @@
                     <artifactId>poi</artifactId>
                     <version>3.9</version>
                 </dependency>
-
             </dependencies>
         </dependencyManagement>
 
@@ -70,33 +73,34 @@
                 <id>all</id>
                 <modules>
                     <module>Amazon</module>
-                    <module>generic</module>
+                    <module>Generic</module>
+                    <module>cnn</module>
                 </modules>
                 <activation>
                     <activeByDefault>true</activeByDefault>
                 </activation>
             </profile>
             <profile>
-                <id>cnn-app</id>
+                <id>Amazon-app</id>
                 <modules>
                     <module>generic</module>
-                    <module>cnn</module>
+                    <module>Amazon</module>
                 </modules>
             </profile>
         </profiles>
 
-        <!--<repositories>-->
-            <!--<repository>-->
-                <!--<id>saucelabs-repository</id>-->
-                <!--<url>https://repository-saucelabs.forge.cloudbees.com/release</url>-->
-                <!--<releases>-->
-                    <!--<enabled>true</enabled>-->
-                <!--</releases>-->
-                <!--<snapshots>-->
-                    <!--<enabled>true</enabled>-->
-                <!--</snapshots>-->
-            <!--</repository>-->
-        <!--</repositories>-->
+        <repositories>
+            <repository>
+                <id>saucelabs-repository</id>
+                <url>https://repository-saucelabs.forge.cloudbees.com/release</url>
+                <releases>
+                    <enabled>true</enabled>
+                </releases>
+                <snapshots>
+                    <enabled>true</enabled>
+                </snapshots>
+            </repository>
+        </repositories>
 
         <properties>
             <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

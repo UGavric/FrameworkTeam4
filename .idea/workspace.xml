@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0293129-d2bc-4af4-a4d1-eae29cb39085" name="Default" comment="">
+    <list default="true" id="b0293129-d2bc-4af4-a4d1-eae29cb39085" name="Default" comment="Pom.xml updated&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PeoplenTech/pom.xml" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\css\maven-base.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\css\maven-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\css\print.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\css\site.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\dependencies.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\dependency-convergence.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\dependency-info.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\dependency-management.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\distribution-management.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\close.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\collapsed.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\expanded.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\external.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\icon_error_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\icon_info_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\icon_success_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\icon_warning_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\logos\build-by-maven-black.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\logos\build-by-maven-white.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\logos\maven-feather.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\newwindow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\integration.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\issue-tracking.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\mail-lists.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\modules.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\plugin-management.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\plugins.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\project-info.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\project-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\source-repository.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\team-list.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cnn/pom.xml" afterPath="$PROJECT_DIR$/cnn/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" afterPath="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FrameworkTeam4.iws" />
@@ -72,7 +111,7 @@
       <file leaf-file-name="runner1.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="44" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="816">
+            <state line="0" column="0" selection-start="0" selection-end="1711" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -101,16 +140,61 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="11" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1139">
+            <state line="4" column="2" selection-start="264" selection-end="1910" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="14" selection-start="3800" selection-end="3800" vertical-scroll-proportion="0.7943144" vertical-offset="1293" max-vertical-offset="1904">
+            <state line="86" column="0" selection-start="3152" selection-end="3152" vertical-scroll-proportion="0.0" vertical-offset="1330" max-vertical-offset="1972">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="0" selection-start="1810" selection-end="1810" vertical-scroll-proportion="0.0" vertical-offset="599" max-vertical-offset="1105">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="41" selection-start="1487" selection-end="1487" vertical-scroll-proportion="0.0" vertical-offset="579" max-vertical-offset="1156">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseClass.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="121" column="42" selection-start="4261" selection-end="4261" vertical-scroll-proportion="0.33242506" vertical-offset="1646" max-vertical-offset="2023">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Page.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/main/java/CnnCommon/Page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="50" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PeoplenTech/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="75" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
               <folding />
             </state>
           </provider>
@@ -131,13 +215,10 @@
       <list>
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/cnn/src/main/java/CnnCommon/Page.java" />
-        <option value="$PROJECT_DIR$/cnn/pom.xml" />
         <option value="$PROJECT_DIR$/cnn/src/test/java/NavigationTab.java" />
         <option value="$PROJECT_DIR$/Generic/src/test/java/home/NavTab.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/NavTab.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/SearchBar.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java" />
-        <option value="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/Registration.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/Login.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/Checkout.java" />
@@ -148,11 +229,23 @@
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/WindowsProcess.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/GetOSname.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/Iframe.java" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestCases/NewTab.java" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java" />
+        <option value="$PROJECT_DIR$/PeoplenTech/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cnn/src/main/resources/runner" />
+        <option value="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" />
+        <option value="$PROJECT_DIR$/cnn/pom.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -161,6 +254,44 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Generic" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Generic" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Generic" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -205,6 +336,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -224,147 +356,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Generic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BasePackage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Amazon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Amazon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrameworkTeam4" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Amazon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,8 +370,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Team4Framework/pom.xml" />
     <property name="FullScreen" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="dynamic.classpath" value="false" />
     <property name="options.lastSelected" value="reference.settings.project.maven.runner" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -386,36 +379,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (5)">
-    <configuration default="false" name="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/cnn/src/test/resources/runner.xml (2)">
     <configuration default="false" name="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -474,11 +438,11 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
+    <configuration default="false" name="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cnn" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -503,11 +467,40 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml (5)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
+    <configuration default="false" name="$PROJECT_DIR$/cnn/src/test/resources/runner.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cnn" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="$PROJECT_DIR$/cnn/src/test/resources/runner.xml (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cnn" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -682,19 +675,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (1)" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (2)" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (3)" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (4)" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (5)" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (2)" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (3)" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/cnn/src/test/resources/runner.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/cnn/src/test/resources/runner.xml (1)" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/cnn/src/test/resources/runner.xml (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (5)" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (4)" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (3)" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (2)" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (1)" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/cnn/src/test/resources/runner.xml (2)" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/cnn/src/test/resources/runner.xml (1)" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/cnn/src/test/resources/runner.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (3)" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/Miad/automation-framework-files/FrameworkTeam4/Amazon/src/test/resources/runner1.xml (2)" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -726,6 +719,11 @@
       <created>1398362123305</created>
       <updated>1398362123305</updated>
     </task>
+    <task id="LOCAL-00001" summary="Pom.xml updated">
+      <created>1399148244276</created>
+      <updated>1399148244277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -742,19 +740,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16398244" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16251831" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33751962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28257456" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -769,6 +767,9 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Pom.xml updated" />
+    <MESSAGE value="Pom.xml updated&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pom.xml updated&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -778,18 +779,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="26" selection-start="2769" selection-end="2769" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1904">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/TestCases/GetOSname.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="391" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/TestCases/Login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="0" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1445" />
@@ -953,11 +942,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.0" vertical-offset="649" max-vertical-offset="1105" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/test/java/home/NavTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="0" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="901" />
@@ -968,31 +952,9 @@
         <state line="12" column="9" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="901" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/CnnCommon/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="122" selection-end="122" vertical-scroll-proportion="0.027823241" vertical-offset="119" max-vertical-offset="1003" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cnn/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="31" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.0" vertical-offset="717" max-vertical-offset="1173" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cnn/src/test/resources/runner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="41" selection-start="546" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="35" max-vertical-offset="663" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/TestCases/NavTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="13" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="0" selection-start="3360" selection-end="3360" vertical-scroll-proportion="0.0" vertical-offset="1180" max-vertical-offset="2023">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/TestCases/Dimensions.java">
@@ -1039,13 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="44" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/TestCases/NewTab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="27" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
@@ -1053,16 +1008,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="0" selection-start="1810" selection-end="1810" vertical-scroll-proportion="0.0" vertical-offset="599" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="11" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+        <state line="4" column="2" selection-start="264" selection-end="1910" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PeoplenTech/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="75" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1711" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/CnnCommon/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="50" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/resources/runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="54" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="663">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="14" selection-start="3800" selection-end="3800" vertical-scroll-proportion="0.7943144" vertical-offset="1293" max-vertical-offset="1904">
+        <state line="86" column="0" selection-start="3152" selection-end="3152" vertical-scroll-proportion="0.0" vertical-offset="1330" max-vertical-offset="1972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="41" selection-start="1487" selection-end="1487" vertical-scroll-proportion="0.0" vertical-offset="579" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="42" selection-start="4261" selection-end="4261" vertical-scroll-proportion="0.33242506" vertical-offset="1646" max-vertical-offset="2023">
           <folding />
         </state>
       </provider>
@@ -1119,7 +1123,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Amazon</last-edited>
+          <last-edited>cnn</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

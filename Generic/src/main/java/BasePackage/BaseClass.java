@@ -26,32 +26,32 @@ public class BaseClass {
 
     public WebDriver driver = null;
 
-    @Parameters({"browser","url"})
+    @Parameters({"useSauceLabs","userName", "key", "os", "browser", "browserVersion","url"})
     @BeforeClass
-//    public void setUp(boolean useSauceLabs,String userName,String key,String os, String browser,String browserVersion,
-//                      String url) throws IOException{
-//        if(useSauceLabs==true){
-//            setUpSauce(userName,key,os,browser,browserVersion,url);
-//        }else{ getDriver(browser,url);
-//
-//        }
-//    }
-//    //driver to run on SauceLabs
-//    public void setUpSauce(String userName,String key,String os, String browser,String browserVersion,
-//                           String url) throws IOException {
-//
-//        DesiredCapabilities capabilities = new DesiredCapabilities();
-//        capabilities.setBrowserName(browser);
-//        capabilities.setCapability("version", browserVersion);
-//        capabilities.setCapability("platform", os);
-//        this.driver = new RemoteWebDriver(
-//                new URL("http://" + userName + ":" + key + "@ondemand.saucelabs.com:80/wd/hub"),
-//                capabilities);
-//        driver.navigate().to(url);
-//        driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
-//        driver.manage().window().maximize();
-//    }
-    //driver to run on local
+    public void setUp(boolean useSauceLabs,String userName,String key,String os, String browser,String browserVersion,
+                      String url) throws IOException{
+        if(useSauceLabs==true){
+            setUpSauce(userName,key,os,browser,browserVersion,url);
+        }else{ getDriver(browser,url);
+
+        }
+    }
+//    driver to run on SauceLabs
+    public void setUpSauce(String userName,String key,String os, String browser,String browserVersion,
+                           String url) throws IOException {
+
+        DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setBrowserName(browser);
+        capabilities.setCapability("version", browserVersion);
+        capabilities.setCapability("platform", os);
+        this.driver = new RemoteWebDriver(
+                new URL("http://" + userName + ":" + key + "@ondemand.saucelabs.com:80/wd/hub"),
+                capabilities);
+        driver.navigate().to(url);
+        driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
+        driver.manage().window().maximize();
+    }
+//    driver to run on local
     public WebDriver getDriver(String browser,String url) {
         if(browser.equalsIgnoreCase("firefox")){
             driver = new FirefoxDriver();

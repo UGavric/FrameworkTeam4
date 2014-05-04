@@ -6,8 +6,8 @@
     <parameter name="userName" value=""/>
     <parameter name="key" value=""/>
 
-    <!--<parameter name="useSauceLabs" value="true"/>-->
-    <!--<parameter name="localPlatform" value="true"/>-->
+    <parameter name="useSauceLabs" value="False"/>
+    <parameter name="localPlatform" value="true"/>
 
     <parameter name="url" value="http://www.Amazon.com"/>
     <!--<parameter name="userName" value=""/>-->
