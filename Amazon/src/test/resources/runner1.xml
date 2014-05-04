@@ -35,7 +35,7 @@
             <class name="TestCases.Screenshot"/>
             <class name="TestCases.GetOSname"/>
             <class name="TestCases.Iframe"/>
-            <class name="TestCases.NewTab"/>
+            <!--<class name="TestCases.NewTab"/>-->
         </classes>
     </test>
     <!-- Test specific params are defined below this-->
