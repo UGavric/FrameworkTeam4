@@ -31,7 +31,7 @@
             <class name="TestCases.Checkout"/>
             <class name="TestCases.Dimensions"/>
             <class name="TestCases.NavTab2"/>
-            <class name="TestCases.WindowsProcess"/>
+            <!--<class name="TestCases.WindowsProcess"/>-->
             <class name="TestCases.Screenshot"/>
             <class name="TestCases.GetOSname"/>
             <class name="TestCases.Iframe"/>

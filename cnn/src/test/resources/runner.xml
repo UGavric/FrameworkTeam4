@@ -25,7 +25,7 @@
         <parameter name="browserVersion" value="28"/>
         <!--<parameter name="browser" value="safari"/>-->
         <classes>
-            <class name="NavigationTab"/>
+            <!--<class name="NavigationTab"/>-->
             <!--<class name= "home.LogIn"/>-->
         </classes>
     </test>
