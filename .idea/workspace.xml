@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0293129-d2bc-4af4-a4d1-eae29cb39085" name="Default" comment="Pom.xml updated&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PeoplenTech/pom.xml" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\css\maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\css\maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\css\print.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\css\site.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\dependency-convergence.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\dependency-info.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\dependency-management.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\distribution-management.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\close.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\external.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\logos\build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\logos\build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\logos\maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\images\newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\integration.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\license.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\mail-lists.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\modules.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\plugin-management.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Miad\automation-framework-files\FrameworkTeam4\target\site\team-list.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cnn/pom.xml" afterPath="$PROJECT_DIR$/cnn/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" afterPath="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" />
+    <list default="true" id="b0293129-d2bc-4af4-a4d1-eae29cb39085" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -108,10 +67,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="runner1.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="runner1.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="1711" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
+            <state line="10" column="0" selection-start="390" selection-end="390" vertical-scroll-proportion="0.4473684" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -173,11 +132,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseClass.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BaseClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="42" selection-start="4261" selection-end="4261" vertical-scroll-proportion="0.33242506" vertical-offset="1646" max-vertical-offset="2023">
-              <folding />
+            <state line="123" column="19" selection-start="4337" selection-end="4337" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="2023">
+              <folding>
+                <element signature="e#4260#4268#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,7 +147,9 @@
         <entry file="file://$PROJECT_DIR$/cnn/src/main/java/CnnCommon/Page.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="50" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -233,11 +196,11 @@
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java" />
         <option value="$PROJECT_DIR$/PeoplenTech/pom.xml" />
-        <option value="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cnn/src/main/resources/runner" />
         <option value="$PROJECT_DIR$/cnn/src/test/resources/runner.xml" />
         <option value="$PROJECT_DIR$/cnn/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml" />
       </list>
     </option>
   </component>
@@ -723,7 +686,11 @@
       <created>1399148244276</created>
       <updated>1399148244277</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pom.xml updated&#10;">
+      <created>1399223372717</created>
+      <updated>1399223372717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -812,7 +779,9 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="125" column="20" selection-start="4377" selection-end="4377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2023">
-          <folding />
+          <folding>
+            <element signature="e#4260#4268#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -839,7 +808,9 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="0" selection-start="3532" selection-end="3532" vertical-scroll-proportion="0.0" vertical-offset="1683" max-vertical-offset="2312">
-          <folding />
+          <folding>
+            <element signature="e#4260#4268#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -856,7 +827,9 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="0" selection-start="2850" selection-end="2850" vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="2040">
-          <folding />
+          <folding>
+            <element signature="e#4260#4268#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -873,7 +846,9 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="74" column="0" selection-start="2812" selection-end="2812" vertical-scroll-proportion="0.0" vertical-offset="1258" max-vertical-offset="2261">
-          <folding />
+          <folding>
+            <element signature="e#4260#4268#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -907,7 +882,9 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="125" column="5" selection-start="4309" selection-end="4309" vertical-scroll-proportion="0.0" vertical-offset="1907" max-vertical-offset="2295">
-          <folding />
+          <folding>
+            <element signature="e#4260#4268#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1029,17 +1006,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="1711" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cnn/src/main/java/CnnCommon/Page.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="50" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1066,7 +1038,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/BasePackage/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="42" selection-start="4261" selection-end="4261" vertical-scroll-proportion="0.33242506" vertical-offset="1646" max-vertical-offset="2023">
+        <state line="123" column="19" selection-start="4337" selection-end="4337" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="2023">
+          <folding>
+            <element signature="e#4260#4268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/runner1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="390" selection-end="390" vertical-scroll-proportion="0.4473684" vertical-offset="0" max-vertical-offset="816">
           <folding />
         </state>
       </provider>

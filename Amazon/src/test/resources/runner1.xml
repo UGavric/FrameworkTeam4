@@ -6,7 +6,7 @@
     <parameter name="userName" value=""/>
     <parameter name="key" value=""/>
 
-    <parameter name="useSauceLabs" value="False"/>
+    <parameter name="useSauceLabs" value="false"/>
     <parameter name="localPlatform" value="true"/>
 
     <parameter name="url" value="http://www.Amazon.com"/>
@@ -25,16 +25,16 @@
         <parameter name="browserVersion" value="28"/>
         <!--<parameter name="browser" value="safari"/>-->
         <classes>
-            <!--<class name="TestCases.NavTab"/>-->
-            <!--<class name="TestCases.SearchBar"/>-->
-            <!--<class name="TestCases.Login"/>-->
-            <!--<class name="TestCases.Checkout"/>-->
-            <!--<class name="TestCases.Dimensions"/>-->
-            <!--<class name="TestCases.NavTab2"/>-->
-            <!--<class name="TestCases.WindowsProcess"/>-->
-            <!--<class name="TestCases.Screenshot"/>-->
-            <!--<class name="TestCases.GetOSname"/>-->
-            <!--<class name="TestCases.Iframe"/>-->
+            <class name="TestCases.NavTab"/>
+            <class name="TestCases.SearchBar"/>
+            <class name="TestCases.Login"/>
+            <class name="TestCases.Checkout"/>
+            <class name="TestCases.Dimensions"/>
+            <class name="TestCases.NavTab2"/>
+            <class name="TestCases.WindowsProcess"/>
+            <class name="TestCases.Screenshot"/>
+            <class name="TestCases.GetOSname"/>
+            <class name="TestCases.Iframe"/>
             <class name="TestCases.NewTab"/>
         </classes>
     </test>
